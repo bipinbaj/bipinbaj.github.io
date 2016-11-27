@@ -623,7 +623,7 @@ body{
 
 /*site under*/
 
-.ground h1{
+#under{
 color: white;
     text-align: center;
     text-transform: uppercase;
